@@ -1,7 +1,6 @@
 # cross_domain_few_shot
 
-kaggle notebooks
-unet: https://www.kaggle.com/code/momoketchum/research-work
-sam: https://www.kaggle.com/code/momoketchum/research-sam
-
-
+*   **Kaggle Notebooks:**
+    *   **U-Net:** [https://kaggle.com](https://kaggle.com)
+    *   **SAM:** [https://kaggle.com](https://kaggle.com)
+*   **Notion:** [https://notion.so](https://notion.so)
